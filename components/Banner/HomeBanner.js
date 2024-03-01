@@ -39,7 +39,7 @@ export const HomeBanner = () => {
                         <ButtonGroup className="hidden md:block mt-2">
                             <Link href="/Enroll">
                                 <div className="btn btn--secondary ml-4">
-                                    NG NCLEX
+                                    Enroll Now
                                     <Icon icon="material-symbols:arrow-forward-rounded" />
                                 </div>
                             </Link>

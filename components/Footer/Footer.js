@@ -62,7 +62,7 @@ export const Footer = () => {
                             <div className="footer--logo grid gap-4">
                                 <Link href="/">
                                     <Image
-                                        src="/BiopioneerIcon2.svg"
+                                        src="/biopioneer-logo.svg"
                                         alt="logo"
                                         className="h-20 w-auto"
                                         height="25"
@@ -75,7 +75,7 @@ export const Footer = () => {
                                 <ButtonGroup className="hidden md:block mt-2">
                                     <Link href="/Enroll">
                                         <div className="btn btn--secondary ml-4">
-                                            NG NCLEX
+                                            Enroll Now
                                             <Icon icon="material-symbols:arrow-forward-rounded" />
                                         </div>
                                     </Link>
